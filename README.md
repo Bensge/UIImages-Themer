@@ -6,4 +6,4 @@
 	3. You can just swap out all the other images and you have a way faster alternative to winterboard then ;)
 
 
-Thanks for Brian Cooper for the inspiration and testing :)
+Thanks to Brian Cooper for the inspiration and testing :)
